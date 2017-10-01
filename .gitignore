@@ -1,0 +1,6 @@
+*.prof
+.idea
+*.swp
+__pycache__/
+.python-version
+
